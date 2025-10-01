@@ -227,4 +227,3 @@ export default function Student() {
     </div>
   );
 }
-C:\Users\Adamya Gupta\live-poll-project\live-poll-backend
